@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://learntheocarinadotcom.ocarinadiva.workers.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://learntheocarina.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/</loc>
+<loc>https://learntheocarina.com/</loc>
 </url>
 <url>
-<loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/about/</loc>
+<loc>https://learntheocarina.com/about/</loc>
 <lastmod>2026-10-11T13:12:26-05:00</lastmod>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/bigbannerrt.jpg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/bigbannerrt.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/cris2002_0427_161308AA-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/cris2002_0427_161308AA-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[Cris Gale selling ocarinas to children.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/cris2002_0420_144307AA-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/cris2002_0420_144307AA-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[Front facing view of an ocarina cart with Cris Gale sitting behind the counter.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/cris2002_0428_171519AA-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/cris2002_0428_171519AA-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[Cris Gale playing the pendant ocarina.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/cris2002_0420_144549AA-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/cris2002_0420_144549AA-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[Cris Gale smiling holding a pendant ocarina.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/DSCN1191-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/DSCN1191-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/DSCN0185-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/DSCN0185-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/HLOM-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/HLOM-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/2/gallery/DSC_0156-thumbnail.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/2/gallery/DSC_0156-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/contact/</loc>
+<loc>https://learntheocarina.com/contact/</loc>
 <lastmod>2026-08-02T11:03:36-05:00</lastmod>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/10/IMG_9193.jpeg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/10/IMG_9193.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/ocarina-lessons/</loc>
+<loc>https://learntheocarina.com/ocarina-lessons/</loc>
 <lastmod>2026-10-08T16:32:58-05:00</lastmod>
 <image:image>
-<image:loc>https://learntheocarinadotcom.ocarinadiva.workers.dev/media/posts/7/spencer.jpg</image:loc>
+<image:loc>https://learntheocarina.com/media/posts/7/spencer.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
