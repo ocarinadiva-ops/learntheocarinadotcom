@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Learn the Ocarina </title>
-    <link href="https://qscftest.quietingsilence.workers.dev/feed.xml" rel="self" />
-    <link href="https://qscftest.quietingsilence.workers.dev" />
+    <link href="https://learntheocarinadotcom.ocarinadiva.workers.dev/feed.xml" rel="self" />
+    <link href="https://learntheocarinadotcom.ocarinadiva.workers.dev" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Cris Gale</name>
     </author>
-    <id>https://qscftest.quietingsilence.workers.dev</id>
+    <id>https://learntheocarinadotcom.ocarinadiva.workers.dev</id>
 
 </feed>
